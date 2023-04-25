@@ -1,7 +1,7 @@
 
 # JDWS-01
 
-![](jdws-01.jpg)
+![](JDWS-01-1500px.jpg)
 
 JDWS – Jelle Dekkers' Weather Skins – is a collection of weather skins. Each release comes with four skins. Combining them like this saves me a lot of time and hassle whenever I want to update something.
 
